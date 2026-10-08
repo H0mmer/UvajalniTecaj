@@ -1,0 +1,2 @@
+# UvajalniTecaj
+primer repozitorija
